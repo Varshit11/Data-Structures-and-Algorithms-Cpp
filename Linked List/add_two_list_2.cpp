@@ -1,7 +1,7 @@
-/* C++ program to add 2 numbers stores as list..
-for ex. if num1 is 563 then it is stores as 5->6->3, if num2 =234 then it is 
-stores as 2->6->4, the final output should be addition of these, i.e 
-the output should be 827 and stored as 8->2->7 */
+/* C++ program to add 2 numberd stores as list..
+for ex. if num1 is 563 then it is stored as 5->6->3, if num2 =234 then it is 
+stored as 2->6->4, the final output should be addition of these, i.e 
+the output should be 827 and stored in linked list as 8->2->7 */
 
 #include<iostream>
 using namespace std;
