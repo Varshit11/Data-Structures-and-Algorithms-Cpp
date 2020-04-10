@@ -1,5 +1,5 @@
 /* C++ program to add 2 numbers which are stored as linked lists..
-5->6->3 is 365, 8->4->2 is 248, addition output is 3->1->6 which is 613*/
+for ex. 365 is stored as 5->6->3, 248 is stored as 8->4->2, addition output should be 3->1->6 which is 613*/
 
 #include<iostream>
 using namespace std;
