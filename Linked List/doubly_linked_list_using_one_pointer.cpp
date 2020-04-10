@@ -1,4 +1,5 @@
-// C++ program to make doubly linked list using 1 pointer.
+/* C++ program to make doubly linked list using 1 pointer.
+we will use the xor operation to solve this problem */
 
 #include<bits/stdc++.h>
 #include<inttypes.h>
