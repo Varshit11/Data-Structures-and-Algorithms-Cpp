@@ -1,4 +1,5 @@
-/* C++ program to merge sort a linked list without using any extra space*/
+/* C++ program to merge sort a linked list without using any extra space
+The code is similar to merge sort in arrays but we dont use extra space as we did in arrays */
 
 #include<iostream>
 using namespace std;
@@ -86,7 +87,7 @@ Node* mergesort(Node* head_temp){
 		head3 = merge(head_temp, head2);
 		return head3;
 	}else{
-		return head_temp;
+		return head_temp; // this means there is only 1 element, as centre is 0 for 1 element so we just return the element
 	}
 }
 
