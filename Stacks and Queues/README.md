@@ -1,6 +1,6 @@
 # Stack and Queues
 
-The sequence of codes:
+
 # Stack - 
 1. Implement Stack using arrays
 2. Implement Stack using linked list
