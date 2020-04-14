@@ -10,3 +10,5 @@ The topics covered are -
 6. Problems on String
 7. Greedy technique
 8. Dynamic Programming
+9. Backtracking
+10. Graphs
