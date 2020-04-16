@@ -5,7 +5,7 @@ is 2 4 3 5, it means to travel from pump1 to pump2, we need 2 litres,
 from pump2 to pump3, we need 4 litres, from pump3 to pump4, we need 
 3 litres, from pump4 to again pump1, we will require 5 litres. Note this 
 is only one direction, you cannot go from pump2 to pump1. We need to find a path
-from any one of the pump, so that we can again come to the same pump without exhausting our petrol pump.
+from any one of the pump, so that we can again come to the same pump without exhausting the fuel.
 For ex. The amount of petrol in 5 pumps is 1 2 3 4 5, and the petrol required to cover distance from
 one petrol pump to another is 3 4 5 1 2. By observing both arrays, if we start from
 pump4, then we can again get back to pump4 without exhausting the fuel.
