@@ -12,3 +12,7 @@ The topics covered are -
 8. Dynamic Programming
 9. Backtracking
 10. Graphs
+
+
+TODO - 
+1. Change the find next greater element in linked list section as it is wrong code.
