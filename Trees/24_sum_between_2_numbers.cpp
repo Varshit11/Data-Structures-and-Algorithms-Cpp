@@ -1,6 +1,8 @@
+/* C++ program to find the range sum of Binary search tree.
+Problem link - https://leetcode.com/problems/range-sum-of-bst/
+*/
+
 #include<iostream>
-#include<queue>
-#include<stack>
 using namespace std;
 
 class Node{
@@ -41,6 +43,7 @@ int main(){
 	root->right = create_node(3);
 	root->right->right = create_node(7);
 	
-	cout<<rangeSumBST(root, 1, 3)<<endl;
+	cout<<"The sum of values between the range 1 and 3 in the BST is "<<rangeSumBST(root, 1, 3)<<endl;
+	return 0;
 }
 
