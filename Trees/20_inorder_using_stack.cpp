@@ -12,7 +12,6 @@ class Node{
 };
 
 Node* root = NULL;
-stack <Node*> s;
 
 Node* create_node(int data){
 	Node* temp = new Node;
@@ -23,26 +22,21 @@ Node* create_node(int data){
 }
 
 void inorder(Node* root){
-	Node* temp = root;
-	s.push(root);
-	while(!s.empty()){
-		while(temp!=NULL){ // go left and push till temp is NULL
-			temp = temp->left;
-			s.push(temp);
+	stack <Node*> s;
+	while(root || !s.empty()){
+		while(root){
+			s.push(root);
+			root = root->left;
 		}
-		temp = s.top(); // now take the top node of stack
-		s.pop(); // pop the top element
-		while(!temp && !s.empty()){ // it may happen the top element is NULL so we will continue to pop until we find non null node
-			temp = s.top();
+		if(!s.empty()){
+			root = s.top();
 			s.pop();
-		}
-		if(temp){ // if we get non null node, we will print the data and push the right child into stack
-			cout<<temp->data<<" ";
-			s.push(temp->right);
-			temp = temp->right;
+			cout<<root->data<<" ";
+			root = root->right;
 		}
 	}
 }
+
 
 int main(){
 	root = create_node(10);
