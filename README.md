@@ -18,3 +18,4 @@ TODO -
 1. Change the find next greater element in linked list section as it is wrong code.
 2. Inorder traversal without recursion and without stack
 3. Serialize and deserialize binary tree
+4. Pattern (complex star pattern codes 3-4 codes)
