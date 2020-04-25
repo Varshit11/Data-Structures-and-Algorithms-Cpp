@@ -15,7 +15,8 @@ The topics covered are -
 
 
 TODO - 
-1. Change the find next greater element in linked list section as it is wrong code.
-2. Inorder traversal without recursion and without stack
-3. Serialize and deserialize binary tree
+1. Change the find next greater element as it is wrong code. (linked list folder)
+2. Inorder traversal without recursion and without stack (trees folder)
+3. Serialize and deserialize binary tree (trees folder)
 4. Pattern (complex star pattern codes 3-4 codes)
+5. Finding k most frequent words in a text file (heaps)
