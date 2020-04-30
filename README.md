@@ -20,3 +20,5 @@ TODO -
 3. Serialize and deserialize binary tree (trees folder)
 4. Pattern (complex star pattern codes 3-4 codes)
 5. Finding k most frequent words in a text file (heaps)
+6. Find duplicates in array in O(n) time. Array has elements fromm 0 to N-1 (array folder)
+7. Matrix spiral traversal (array folder)
