@@ -18,3 +18,8 @@ Problems -
 7. Remove adjacent duplicates from a string, most efficient solution
 8. First non repeating character in a string
 9. First non repeating character in a stream
+10. Find the smallest window in a string containing all characters of another string
+11. Find the smallest window in a string containing all characters of another string most efficient method using hash table
+12. Print all anagrams in a list of words
+13. Rearrange Characters to form a palindrome
+14. Reorder Data in Log Files (Leetcode 937)
