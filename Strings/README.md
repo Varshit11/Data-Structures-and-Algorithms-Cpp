@@ -23,3 +23,7 @@ Problems -
 12. Print all anagrams in a list of words
 13. Rearrange Characters to form a palindrome
 14. Reorder Data in Log Files (Leetcode 937)
+15. Decode ways (Leetcode 91)
+16. Longest Common Prefix (Leetcode 14)
+17. Sort Characters By Frequency (Leetcode 451)
+18. Rotate String (Leetcode 796)
