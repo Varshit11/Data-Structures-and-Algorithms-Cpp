@@ -28,3 +28,6 @@ Problems -
 17. Sort Characters By Frequency (Leetcode 451)
 18. Rotate String (Leetcode 796)
 19. Excel Sheet Column Number (Leetcode 171)
+20. Naive approach to solve string matching problem
+21. Find the Length of Longest Substring Without Repeating Characters (Leetcode 3)
+
