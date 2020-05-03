@@ -32,3 +32,4 @@
 30. Wiggle Sort time - O(N)
 31. Count 1's in Binary Sorted array
 32. Sort a nearly sorted array 
+33. Two Sum (Leetcode Problem 1)
