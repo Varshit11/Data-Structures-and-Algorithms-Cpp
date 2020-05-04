@@ -12,6 +12,7 @@ The topics covered are -
 8. Dynamic Programming
 9. Backtracking
 10. Graphs
+11. Divide and Conquer
 
 
 TODO - 
