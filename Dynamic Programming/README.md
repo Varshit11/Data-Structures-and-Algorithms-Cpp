@@ -11,3 +11,4 @@
 9. Print Longest Palindromic Sub String (Leetcode Problem 2)
 10. Climbing stairs problem
 11. Find Nth Ugly number
+12. Rod Cutting problem (recursive, top down DP and bottom up DP)
