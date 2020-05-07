@@ -13,3 +13,4 @@
 11. Find Nth Ugly number
 12. Rod Cutting problem (recursive, top down DP and bottom up DP)
 13. Count all possible paths in grid (2 recursive approaches, and thier respective 2 bottom up approaches)
+14. Coin Change problem (both recursive and bottom up DP)
