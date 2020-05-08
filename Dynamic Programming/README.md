@@ -18,3 +18,6 @@
 16. Fill a N*4 wall with 1*4 bricks problem (both recursive and DP)
 17. Levenstein/Edit Distance Problem (both recursive and DP)
 18. Egg dropping Problem (both recursive and DP)
+19. Word break problem (both recursive and DP)
+20. Longest Increasing subsequence (both recursive and DP)
+21. Longest Increasing Subsequence O(N*logN) time Algorithm
