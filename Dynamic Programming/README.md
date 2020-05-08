@@ -14,3 +14,7 @@
 12. Rod Cutting problem (recursive, top down DP and bottom up DP)
 13. Count all possible paths in grid (2 recursive approaches, and thier respective 2 bottom up approaches)
 14. Coin Change problem (both recursive and bottom up DP)
+15. Minimum Cost path Problem (both recursive and DP)
+16. Fill a N*4 wall with 1*4 bricks problem (both recursive and DP)
+17. Levenstein/Edit Distance Problem (both recursive and DP)
+18. Egg dropping Problem (both recursive and DP)
