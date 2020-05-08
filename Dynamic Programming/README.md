@@ -21,3 +21,4 @@
 19. Word break problem (both recursive and DP)
 20. Longest Increasing subsequence (both recursive and DP)
 21. Longest Increasing Subsequence O(N*logN) time Algorithm
+22. Unique ways (Leetcode problem 62)
