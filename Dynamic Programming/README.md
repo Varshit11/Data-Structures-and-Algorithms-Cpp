@@ -21,4 +21,9 @@
 19. Word break problem (both recursive and DP)
 20. Longest Increasing subsequence (both recursive and DP)
 21. Longest Increasing Subsequence O(N*logN) time Algorithm
-22. Unique ways (Leetcode problem 62)
+22. Unique paths (Leetcode problem 62)
+23. Unique Binary trees (Leetcode 96)
+24. House Robber (Leetocode 198)
+25. Find Maximum size square sub-matrix with all 1s
+26. Maximum size rectangle binary sub-matrix with all 1s
+27. Longest Valid Parentheses(Leetcode 32)
