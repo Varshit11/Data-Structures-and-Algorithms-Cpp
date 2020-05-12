@@ -33,3 +33,4 @@
 31. Count 1's in Binary Sorted array
 32. Sort a nearly sorted array 
 33. Two Sum (Leetcode Problem 1)
+34. Single Element in a Sorted Array (Leetcode 540)
