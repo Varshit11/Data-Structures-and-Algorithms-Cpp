@@ -4,3 +4,6 @@
 2. Write a Program for Sudoku
 3. Rat in a maze problem
 4. Letter Combinations of a Phone Number (Leetcode 17)
+5. Permutations (Leetcode 46)
+6. Word Search (Leetcode 79)
+7. Generate Parentheses (Leetcode 22)
