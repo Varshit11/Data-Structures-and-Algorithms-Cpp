@@ -7,3 +7,4 @@
 5. Permutations (Leetcode 46)
 6. Word Search (Leetcode 79)
 7. Generate Parentheses (Leetcode 22)
+8. Subsets (Leetcode 78) (Solution using simple for loop added, backtracking solution to be added later)
