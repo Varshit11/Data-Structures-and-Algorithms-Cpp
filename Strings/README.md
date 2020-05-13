@@ -30,4 +30,4 @@ Problems -
 19. Excel Sheet Column Number (Leetcode 171)
 20. Naive approach to solve string matching problem
 21. Find the Length of Longest Substring Without Repeating Characters (Leetcode 3)
-
+22. Remove K digits (Leetcode 402)
