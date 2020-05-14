@@ -13,7 +13,7 @@ The topics covered are -
 9. Backtracking
 10. Graphs
 11. Divide and Conquer
-
+12. Trie 
 
 TODO - 
 1. Change the find next greater element as it is wrong code. (linked list folder)
