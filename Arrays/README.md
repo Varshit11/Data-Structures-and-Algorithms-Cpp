@@ -34,3 +34,6 @@
 32. Sort a nearly sorted array 
 33. Two Sum (Leetcode Problem 1)
 34. Single Element in a Sorted Array (Leetcode 540)
+35. Happy Number (Leetcode 202)
+36. Move Zeroes (Leetcode 283)
+37. Best time to Buy and Sell Stock 2 (Leetcode 122)
