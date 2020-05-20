@@ -36,3 +36,4 @@
 34. Validate Binary Tree (Leetcode Problem 98)
 35. Populating Next Right Pointers in Each Node (Leetcode problem 116)
 36. Cousins in Binary tree (Leetcode Problem 993) (Both DFS and BFS solution)
+37. Kth Smallest Element in a BST (Leetcode 230)
