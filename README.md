@@ -22,3 +22,4 @@ TODO -
 4. Finding k most frequent words in a text file (heaps)
 5. Find duplicates in array in O(n) time. Array has elements from 0 to N-1 (array folder)
 6. Matrix spiral traversal (array folder)
+7. Manacher Algo and expand around center approach (longest palindromic substring)
