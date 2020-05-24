@@ -29,3 +29,4 @@
 27. Longest Valid Parentheses(Leetcode 32)
 28. Maximum Sum Circular Subarray (Leetcode 918)
 29. Square Submatrices with all 1s (Leetcode 1277)
+30. Max Dot Product of Two Subsequences (Leetcode 1458)
