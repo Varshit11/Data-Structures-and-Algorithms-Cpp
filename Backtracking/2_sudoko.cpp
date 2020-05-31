@@ -6,61 +6,6 @@ Problem Statement - https://www.geeksforgeeks.org/sudoku-backtracking-7/
 #include<vector>
 using namespace std;
 
-//bool check(vector<vector<int>> &mat, vector<vector<int>> &temp, int num, int row, int col, int main1, int main2){
-//	int i,j;
-//	for(i=0;i<9;i++) if(num == mat[3*main1+row][i]) return false;
-//	for(i=0;i<9;i++) if(num == mat[i][3*main2+col]) return false;
-//	for(i=0;i<3;i++) for(j=0;j<3;j++) if(temp[i][j] == num) return false;
-//	return true;
-//}
-//
-//bool fill_temp(vector<vector<int>> &mat, vector<vector<int>> &temp, int row, int col, int main1, int main2){
-//	cout<<"Row is "<<row<<"col is "<<col<<endl;
-//	if(col>=3){
-//		col = 0;
-//		row++;
-//	}
-//	if(row>=3) return true;
-//	if(temp[row][col] == 0){
-//		for(int i = 1; i<=9;i++){
-//			if(check(mat, temp, i, row, col, main1, main2)) temp[row][col] = i;
-//			if(fill_temp(mat, temp, row, col+1, main1, main2)) return true;
-//			temp[row][col] = 0;
-//		}
-//	}else {
-//		bool j = fill_temp(mat, temp, row, col+1, main1, main2);
-//	}
-//	return false;
-//}
-//
-//void initialise_temp(vector<vector<int>> &mat, vector<vector<int>> &temp, int row, int col){
-//	int h = 0, k = 0;
-//	for(int i = 3*row; i<3*row+3; i++){
-//		k = 0;
-//		for(int j = 3*col; j<3*col+3; j++) {
-//			temp[h][k] = mat[i][j];
-//			++k;
-//		}
-//		h++;
-//	}
-//}
-//
-//void fill_mat(vector<vector<int>> &mat, vector<vector<int>> &temp, int row, int col){
-//	for(int i = 0; i<3; i++) for(int j = 0; j<3; j++) mat[3*row+i][3*col+j] = temp[i][j];
-//}
-//
-//void sudoko(vector<vector<int>> &mat){
-//	vector<vector<int>> temp(3, vector<int>(3));
-//	for(int i = 0; i<3; i++){
-//		for(int j = 0; j<3; j++){
-//			initialise_temp(mat, temp, i, j);
-//			bool k = fill_temp(mat, temp, 0, 0, i, j);
-//			fill_mat(mat, temp, i, j);
-//		}
-//	}
-//}
-// the above commented code is giving wrong result.
-// Correct solution - 
 bool check(vector<vector<int>> &mat, int row, int col, int num){
 	int i, j;
 	for(i=0; i<mat.size(); i++) if(mat[i][col] == num) return false; // checking column
