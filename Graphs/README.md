@@ -17,3 +17,4 @@
 15. Micro and Maze problem (hacker earth)
 16. Find Articulation Points in Graph
 17. Find Bridges in Graph
+18. Number of Enclaves (Leetcode 1020)
