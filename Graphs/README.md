@@ -11,3 +11,7 @@
 9. Rotting Oranges (Leetcode 994)
 10. Word Ladder (Leetcode 127)
 11. Possible Bipartition (Leetcode 886)
+12. Bellman Ford Algorithm
+13. Dijkstra Algorithm
+14. Floyd Warshall Algorithm
+15. Micro and Maze problem (hacker earth)
