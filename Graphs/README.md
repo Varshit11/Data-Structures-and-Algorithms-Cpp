@@ -15,3 +15,5 @@
 13. Dijkstra Algorithm
 14. Floyd Warshall Algorithm
 15. Micro and Maze problem (hacker earth)
+16. Find Articulation Points in Graph
+17. Find Bridges in Graph
