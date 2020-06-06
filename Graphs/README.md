@@ -18,3 +18,7 @@
 16. Find Articulation Points in Graph
 17. Find Bridges in Graph
 18. Number of Enclaves (Leetcode 1020)
+19. Surrounded regions (Leetcode 130)
+20. Detect cycle in graph 
+21. Friend Circle (Leetcode 547)
+22. Redundant connection (Leetcode 684)
