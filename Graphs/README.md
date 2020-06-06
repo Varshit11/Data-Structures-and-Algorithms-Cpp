@@ -22,3 +22,5 @@
 20. Detect cycle in graph 
 21. Friend Circle (Leetcode 547)
 22. Redundant connection (Leetcode 684)
+23. Check if graph is bipartite or not (Using DFS)
+24. Check if graph is bipartite or not (Using BFS) (Leetcode 785)
