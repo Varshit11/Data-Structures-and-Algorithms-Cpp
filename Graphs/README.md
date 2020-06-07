@@ -24,3 +24,6 @@
 22. Redundant connection (Leetcode 684)
 23. Check if graph is bipartite or not (Using DFS)
 24. Check if graph is bipartite or not (Using BFS) (Leetcode 785)
+25. Course schedule 2 (Leetcode 210)
+26. Evaluate Division (Leetcode 399)
+27. 01 Matrix (Leetcode 542)
