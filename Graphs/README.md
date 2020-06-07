@@ -27,3 +27,6 @@
 25. Course schedule 2 (Leetcode 210)
 26. Evaluate Division (Leetcode 399)
 27. 01 Matrix (Leetcode 542)
+28. Redundant Connection (Leetcode 684)
+29. Employee Information (Leetcode 690)
+
