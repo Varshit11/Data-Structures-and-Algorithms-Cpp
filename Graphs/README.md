@@ -29,4 +29,7 @@
 27. 01 Matrix (Leetcode 542)
 28. Redundant Connection (Leetcode 684)
 29. Employee Information (Leetcode 690)
-
+30. Max area of island (Leetcode 695)
+31. Accounts Merge (Leetcode 721)
+32. Network delay time (Leetcode 743)
+33. Find eventual Safe states (Leetcode 802)
